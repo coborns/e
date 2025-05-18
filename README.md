@@ -1,3 +1,5 @@
 uh put this in ur executor i think
 
-```loadstring(game:HttpGet("https://pastebin.com/raw/u5StAafN", true))()```
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/coborns/e/refs/heads/main/main.lua", true))()
+```
